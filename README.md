@@ -1,0 +1,1 @@
+#This is a rule based classification project which is one of the weekly task of the Miuul Data Scientist Bootcamp
